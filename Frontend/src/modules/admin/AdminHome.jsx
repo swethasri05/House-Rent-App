@@ -66,7 +66,7 @@ const AdminHome = () => {
     <div>
       <Navbar expand="lg" className="bg-body-tertiary">
         <Container fluid>
-          <Navbar.Brand><h2>RentEase</h2></Navbar.Brand>
+          <Navbar.Brand><h2>Sheltr</h2></Navbar.Brand>
           <Navbar.Toggle aria-controls="navbarScroll" />
           <Navbar.Collapse id="navbarScroll">
             <Nav
