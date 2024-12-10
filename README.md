@@ -127,6 +127,9 @@ Here's a quick overview of the project's file structure:
 ##Report and DemoLink
 https://drive.google.com/drive/folders/1cG0x9mJZ-u1Y21sBKHauB-Xth-KyvAdV?usp=drive_link
 
+##PPT Link
+https://docs.google.com/presentation/d/1pTCINxtWlZv1bjvYVtvScikVecqNI-PU/edit?usp=drive_link&ouid=106080410584658926891&rtpof=true&sd=true
+
 ---
 
 ## License
